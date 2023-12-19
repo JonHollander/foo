@@ -1,0 +1,13 @@
+{
+  "name": "unscoped-foo",
+  "packageManager": "yarn@4.0.2",
+  "version": "0.0.1",
+  "source": "./src/foo.js",
+  "main": "./src/foo.js",
+  "files": [
+    "./src/foo.js"
+  ],
+  "engines": {
+    "node": "18.x"
+  }
+}
